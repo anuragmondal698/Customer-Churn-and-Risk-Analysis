@@ -9,6 +9,7 @@
 ## **Built with:**
 1. Power BI Desktop
 2. Excel
+3. Microsoft SQL Server Studio
 
 ## Key Insights:
 ![key insights](https://github.com/DataVizExpert-Sham/Predictive-Customer-Analytics-in-Power-BI/assets/151017676/af60d484-23ad-4c03-ad5a-fc9af7ea0af4)
